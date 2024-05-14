@@ -1,1 +1,2 @@
-console.log("hello students");
+let x=0;
+console.log(x);
